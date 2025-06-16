@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LaayouneTV.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Al Aoula Laâyoune (480p)
-#EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
-https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma@SD" http-referrer="https://snrt.player.easybroadcast.io/",Al Maghribia (480p)
 #EXTVLCOPT:http-referrer=https://snrt.player.easybroadcast.io/
 https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8
@@ -25,29 +22,18 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="AlMajdHolyQuran.sa",Al-Majd Holy Quran
+https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (720p)
 http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (720p)
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (360p)
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlResalah.sa" http-referrer="https://rotana.net/",Al Resalah (1080p)
 #EXTVLCOPT:http-referrer=https://rotana.net/
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRiyadhRadio.sa",Al Riyadh Radio (1080p)
 https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AflamTV.ma@SD",Aflam TV
-https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
-#EXTINF:-1 tvg-id="StoryChannelTV.ma",StoryChannel TV (720p)
-https://136044159.r.cdnsun.net/storychannel.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma@SD" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Arryadia (480p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma@SD" http-referrer="https://snrtlive.ma/" http-user-agent="ExoPlayer",Assadissa (480p)
 #EXTVLCOPT:http-referrer=https://snrtlive.ma/
 #EXTVLCOPT:http-user-agent=ExoPlayer
@@ -77,6 +63,22 @@ https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer
 https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="MBC1.ae",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae",MBC 1 (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC1USA.us",MBC 1 USA (1080p)
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="MBC2.ae",MBC 2 (480p)
+https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae",MBC 3 KSA (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae",MBC 4 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae",MBC 4 (1080p)
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+
 #EXTINF:-1 tvg-id="AlArabyTV.qa",Al Araby TV (1080p)
 https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
@@ -88,21 +90,9 @@ https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist
 
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 
-
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.ba",Al Jazeera Balkans (1080p)
-
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p)
-
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p)
-
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 
 
@@ -119,9 +109,6 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AlArabyTV.qa",Alaraby TV (1080p)
-
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="AlkassFive.qa",Alkass Five (1080p)
@@ -249,22 +236,6 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 https://ip100.radyotelekomtv.com:3873/stream/play.m3u8
 #EXTINF:-1 tvg-id="Majid.ae",Majid TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae",MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae",MBC 1 (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC1USA.us",MBC 1 USA (1080p)
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae",MBC 2 (480p)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae",MBC 3 KSA (1080p)
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC4.ae",MBC 4 (1080p)
-https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC4.ae",MBC 4 (1080p)
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae",MBC 5 (1080p)
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae",MBC Drama KSA (1080p)
@@ -459,7 +430,5 @@ https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062dd
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-id="Tarab.sa",Tarab (1080p)
 https://shls-live-mood-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-id="AlMajdHolyQuran.sa",Al-Majd Holy Quran
-https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KSASports1.sa@SD",KSA Sports 1
 https://live20.bozztv.com/gin-36bay3/ga-ksaports1/index.m3u8
