@@ -19,8 +19,6 @@ https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="2M.ma@SD",2M
-https://live20.bozztv.com/gin-36bay4/ga-2mmaroc-hd/index.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa",Iqraa Quran (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa",Iqraa Arabic (1080p) [Not 24/7]
